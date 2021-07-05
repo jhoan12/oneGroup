@@ -46,3 +46,11 @@ este se basa en una especie de tienda online o catálogo, en el apartado de usua
 	- este usuario puede:
 		- administrar su propio usuario, después de crearlo, puede editar o eliminarlo y, si lo elimina se eliminará toda su información.
 		- puede ver todos los productos que hay en la app, sin importar que usuario los creó.
+
+## Deploy
+ - Back-end
+ 	- Glitch
+ - Font-end
+ 	- Netlify
+ - Base de datod
+ 	- MongoAtlas
