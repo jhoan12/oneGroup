@@ -49,7 +49,7 @@ este se basa en una especie de tienda online o catálogo, en el apartado de usua
 
 ## Deploy
  - Back-end
- 	- Glitch
+ 	- Glitch (tener en cuenta que se demorara unos segundos en subir)
  - Font-end
  	- Netlify
  - Base de datos
