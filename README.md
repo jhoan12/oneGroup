@@ -52,5 +52,5 @@ este se basa en una especie de tienda online o catálogo, en el apartado de usua
  	- Glitch
  - Font-end
  	- Netlify
- - Base de datod
+ - Base de datos
  	- MongoAtlas
